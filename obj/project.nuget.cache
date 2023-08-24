@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5wBVj7NhPFzAULYk/M6oR4CfQ7yDASXeylyYvBV0T3PYuEZ2z26lD7fWmOx9sp8h3szg8anPlTCgLWu3Ru1Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bracruz\\Downloads\\Projetos .Net\\ExemplosExplorando\\ExemplosExplorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bracruz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
